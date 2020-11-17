@@ -1,0 +1,23 @@
+[
+    {   
+    "nama" : "Herdy Imam Febrianto",
+    "umur" : 5,
+    "nrp"  : "183040108",
+    "lulus" : "false",
+    "hobi" : [
+        "game",
+        "ngoprek"
+    ]
+    
+},
+{   
+    "nama" : "bad",
+    "umur" : 5,
+    "nrp"  : "195258036",
+    "lulus" : "false",
+    "hobi" : [
+        "travel",
+        "makan"
+    ]
+}
+]
